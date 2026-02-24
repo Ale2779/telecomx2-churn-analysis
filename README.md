@@ -119,3 +119,4 @@ Cargos mensuales elevados aumentan la probabilidad de churn.
 
 El análisis permitió identificar patrones claros asociados a la cancelación de clientes.
 Los modelos predictivos desarrollados pueden utilizarse como herramienta estratégica para reducir la evasión y mejorar la retención en Telecom X2.
+![Matriz de Correlación](correlacion.png)
